@@ -13,4 +13,4 @@ A game where two users could play chess against each other. Chess Judge is imple
 ## 3. Pipe Game
 A game asking users to connect all the shuffled pipe blocks so that there is no leakage. BFS is applied to check the connectivity of the pipes.
 
-<img src="pipe/login.JPG" width="350" height="400"> <img src="pipe/gamewindow.JPG" width="370" height="400">
+<img src="pipe/login.JPG" width="350" height="400"> <img src="pipe/gamewindow.JPG" width="350" height="400">
